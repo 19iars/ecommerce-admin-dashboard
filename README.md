@@ -27,6 +27,7 @@ It simulates a basic eCommerce backend interface for managing products and order
 ---
 
 ## 📁 Project Structure
+```text
 ecommerce-admin-dashboard/
 │
 ├── index.html
@@ -34,7 +35,7 @@ ecommerce-admin-dashboard/
 ├── script.js
 └── assets/
     └── (optional icons/images)
-
+```
 ---
 
 ## 🎯 Purpose
