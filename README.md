@@ -4,6 +4,12 @@ A polished client-side admin dashboard built with HTML, CSS, and JavaScript. It 
 
 ---
 
+## 🚀 Live Demo
+- No hosted demo available yet.
+- Open `index.html` in a browser or serve the folder with a static server to run locally.
+
+---
+
 ## 🚀 Project Overview
 This dashboard is designed as a responsive single-page interface for eCommerce administration. All data is stored locally in the browser using `localStorage`, and the app includes product/customer CRUD, order filtering, page routing, and theme toggling.
 
